@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIMSW.Specifications", "RIMSW.Specifications\RIMSW.Specifications.csproj", "{60E40A12-D3FC-4B7F-97F6-077F06214FA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIMSW.Types", "RIMSW.Types\RIMSW.Types.csproj", "{107612BD-8C73-4E27-B759-38CA519AD817}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{60E40A12-D3FC-4B7F-97F6-077F06214FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60E40A12-D3FC-4B7F-97F6-077F06214FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60E40A12-D3FC-4B7F-97F6-077F06214FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107612BD-8C73-4E27-B759-38CA519AD817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107612BD-8C73-4E27-B759-38CA519AD817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107612BD-8C73-4E27-B759-38CA519AD817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107612BD-8C73-4E27-B759-38CA519AD817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

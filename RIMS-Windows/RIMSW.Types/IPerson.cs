@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RIMSW.Specifications
+namespace RIMSW.Types
 {
-    public class Class1
+    public interface IPerson
     {
+        string FirstName { get; set; }
+        string Surname { get; set; }
     }
 }
